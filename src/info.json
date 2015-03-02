@@ -1,0 +1,9 @@
+{
+  "name": "Loot-able Rocks",
+  "version": "1.0.0",
+  "title": "Loot-able Rocks",
+  "author": "Rseding91",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Killing rocks drops stone."
+}
